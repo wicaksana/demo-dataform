@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "demo_dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "marifw-bigquery-stuff",
+  "defaultLocation": "US"
+}
+    
