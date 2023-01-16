@@ -1,0 +1,19 @@
+config {
+  type: "view"
+}
+
+SELECT
+  "Jakarta" AS city,
+  1000 AS count
+UNION ALL
+SELECT
+  "Bandung" AS city,
+  250 AS count
+UNION ALL
+SELECT
+  "Surabaya" AS city,
+  391 AS count
+UNION ALL
+SELECT
+  "Medan" AS city,
+  2551 AS count
